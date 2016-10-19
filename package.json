@@ -1,0 +1,17 @@
+{
+  "name": "game_arena",
+  "version": "1.0.0",
+  "description": "game_arena_middleware",
+  "main": "game_arena.js",
+  "scripts": {
+    "test": "test_game_arena"
+  },
+  "author": "treybianchini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.6.3",
+    "node-rest-client": "^2.0.1",
+    "nodeunit": "^0.10.2"
+  }
+}

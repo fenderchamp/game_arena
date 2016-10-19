@@ -1,0 +1,2 @@
+alias nodeunit=`pwd`'/node_modules/nodeunit/bin/nodeunit';
+
